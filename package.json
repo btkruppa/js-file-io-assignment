@@ -1,0 +1,22 @@
+{
+  "name": "js-file-io-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btkruppa/js-file-io-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btkruppa/js-file-io-assignment/issues"
+  },
+  "homepage": "https://github.com/btkruppa/js-file-io-assignment#readme"
+}
