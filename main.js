@@ -16,3 +16,4 @@ console.log(`parsed: ${util.inspect(employee)}`)
 employee.promote('chief petty grunt', 10)
 
 console.log(`after promotion: ${util.inspect(employee)}`)
+console.log("hello")
